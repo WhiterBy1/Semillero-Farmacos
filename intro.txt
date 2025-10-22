@@ -1,0 +1,11 @@
+1. COPIAR EL LINK : https://github.com/WhiterBy1/Semillero-Farmacos.git
+2. ABRIR CMD -> WINDOWS + R -> "cmd" -> ENTER
+3. ENTRAR A LA CARPETA DE DOCUMENTS:  "cd Documents"
+4. Crear una carpeta:  "mkdir Semillero"
+5. ENTRAR A LA CARPETA: "cd Semillero"
+6. CLONAR EL REPOSITORIO: "git clone https://github.com/WhiterBy1/Semillero-Farmacos.git"
+7. ENTRAR A LA CARPETA DEL REPOSITORIO: "code Semillero-Farmacos"
+
+---
+
+# BIENVENIDO AL SEMILLERO DE FARMACOS
